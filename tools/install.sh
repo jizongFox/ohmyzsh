@@ -90,7 +90,6 @@ if [ -n "$ZDOTDIR" ] && [ "$ZDOTDIR" != "$HOME" ]; then
   ZSH="${ZSH:-$ZDOTDIR/ohmyzsh}"
 fi
 ZSH="${ZSH:-$HOME/.oh-my-zsh}"
-
 # Default settings
 REPO=${REPO:-jizongfox/ohmyzsh}
 REMOTE=${REMOTE:-https://github.com/${REPO}.git}
