@@ -123,7 +123,7 @@ It's a good idea to inspect the install script from projects you don't yet know.
 downloading the install script first, looking through it so everything looks normal, then running it:
 
 ```sh
-wget https://raw.githubusercontent.com/ohmyzsh/jizong/master/tools/install.sh
+wget https://raw.githubusercontent.com/jizongfox/ohmyzsh/master/tools/install.sh
 sh install.sh
 ```
 
