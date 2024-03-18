@@ -16,3 +16,9 @@
 [submodule "custom/plugins/git-open"]
 	path = custom/plugins/git-open
 	url = https://github.com/paulirish/git-open.git
+[submodule "custom/plugins/zsh-autocomplete"]
+	path = custom/plugins/zsh-autocomplete
+	url = https://github.com/marlonrichert/zsh-autocomplete.git
+[submodule "custom/plugins/conda"]
+	path = custom/plugins/conda
+	url = https://github.com/KellieOwczarczak/conda.plugin.zsh.git
